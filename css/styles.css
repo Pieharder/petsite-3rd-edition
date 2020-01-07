@@ -1,18 +1,17 @@
 body {
-  background-color: #98C6CE;
-  color: #EBF1F2;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: center;
-}
-
-ul, ol {
-  list-style-position: inside;
-}
-
-h1 {
-  color: #3F6D75;
+  background-color: #D1F7F9;
+  color: #129DA4;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p {
   text-decoration: underline;
+}
+
+p, h2, h3 {
+  color: #054447;
+}
+
+h1 {
+  font-size: 50px;
 }
